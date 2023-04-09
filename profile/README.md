@@ -21,15 +21,21 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </div>
 <br>
-Hello There! Everyone! Welcome to the Github Page of The Cynaptics Club of IIT Indore
+Hey There! Everyone! Welcome to the Github Page of The Cynaptics Club of IIT Indore
 
 ## About Us
 
 We are a group of individuals who work on interesting projects, conduct workshops and organize events to help students get a better understanding of how Machine Learning and Artificial Intelligence work. We strongly believe in the strength of AI/ML and that this is the revolution that the world is going into. We as an organisation at IIT Indore build various projects and develop applications relevant in today's world. 
 We essentially work on almost every domain that AI/ML offers including, Machine Learing statistical techniques, Deep Learning domains like Computer Vision and NLP, GANs, Transformers, Research paper based models, openAI models and many more. 
 
-## Head
-- [Yatharth Gupta](https://github.com/Warlord-K)
-## Co-Heads
+## Head and Co-Heads
+- Club Head: [Yatharth Gupta](https://github.com/Warlord-K)
+- Project Team Head: [Rupal Shah](https://github.com/Rupal17shah)
+- Event Team Head: [Madhav Kadam](https://github.com/madhaviit)
+- Outreach Team Head: [Ashutosh Samantaray](https://github.com/A5HU705H)
+
 ## Members
+- Names 
+
 ## Volunteers
+- Names
