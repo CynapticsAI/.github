@@ -69,6 +69,7 @@ We essentially work on almost every domain that AI/ML offers including, Machine 
 - [Suhana Shaik](https://github.com/tekksick)
 - [Sai Pranay Deep Jonnalagadda](https://github.com/saipranaydeep)
 - [Soham Pandit](https://github.com/Scav6411)
+- [Raina Tathed](https://github.com/Raina-310304)
 
 ## Past Members
 - [Aditya Abhiram](https://github.com/Aa20475)
