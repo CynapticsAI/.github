@@ -60,6 +60,7 @@ We essentially work on almost every domain that AI/ML offers including, Machine 
 - [Samip Shah](https://github.com/snarkyidiot)
 - [Tanishq Selot](https://github.com/tanishq150802)
 - [Yash Vashishtha](https://github.com/Yashiiti)
+- [G Aakash](https://github.com/cse210001015)
 
 
 ## Volunteers
