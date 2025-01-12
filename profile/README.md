@@ -29,12 +29,15 @@ We are a group of individuals who work on interesting projects, conduct workshop
 We essentially work on almost every domain that AI/ML offers including, Machine Learing statistical techniques, Deep Learning domains like Computer Vision and NLP, GANs, Transformers, Research paper based models, openAI models and many more. 
 
 ## Head and Co-Heads
-- Club Head: [Yatharth Gupta](https://github.com/Warlord-K)
-- Project Team Head: [Rupal Shah](https://github.com/Rupal17shah)
-- Event Team Head: [Madhav Kadam](https://github.com/madhaviit)
-- Outreach Team Head: [Ashutosh Samantaray](https://github.com/A5HU705H)
+- Club Head: [Arnav Jain](https://github.com/arnavjain2710)
+- Project Team Head: [Soham Pandit](https://github.com/Scav6411)
+- Event Team Head: [Lovely Bhardwaj](https://github.com/lovelybhardwaj)
 
 ## Members
+- [Yatharth Gupta](https://github.com/Warlord-K)
+- [Rupal Shah](https://github.com/Rupal17shah)
+- [Madhav Kadam](https://github.com/madhaviit)
+- [Ashutosh Samantaray](https://github.com/A5HU705H)
 - [Jha Rohan](https://github.com/rohanjha04)
 - [Tanisha Sahu](https://github.com/10isha)
 - [Abhijit Panda](https://github.com/abhijitpanda890)
